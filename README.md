@@ -2,7 +2,7 @@
 
 # English Kiddo 🌈
 
-![English Kiddo – playful learning UI](./assets/readme/hero.png)
+![English Kiddo – playful learning UI](./assets/readme/readme-hero.webp)
 
 *A playful English learning website built with love for a curious 7-year-old Italian learner.*
 
